@@ -10,5 +10,8 @@ theme:
            - navigation.tabs
 nav:
   - Home: 
-    - Início: index.md
+    - Início: home/index.md
+  - Desenvolvimento Pré-Sprint: 
+    - Semana 1: desenvolvimento/semana1.md
+    - Semana 2: desenvolvimento/semana2.md
  
