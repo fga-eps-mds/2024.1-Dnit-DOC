@@ -19,3 +19,6 @@ inicial
 ![Quadro de conhecimento](../assets/quadro-conhecimento/quadro_conhecimentos_semana2.png)
 
 ## Disponibilidade de horarios
+
+![Quadro de horários](../assets/quadro-conhecimento/quadro_horarios.png)
+
