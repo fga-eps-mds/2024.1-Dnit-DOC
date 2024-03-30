@@ -8,10 +8,15 @@ theme:
   language: pt
   features:
            - navigation.tabs
+  logo: assets/logos/dnitLogoBranco.png
+  favicon: assets/logos/dnitLogoBrancoFundoAzul.png
 nav:
   - Home: 
-    - Início: home/index.md
+    - Início: index.md
   - Desenvolvimento Pré-Sprint: 
     - Semana 1: desenvolvimento/semana1.md
     - Semana 2: desenvolvimento/semana2.md
+extra_css:
+  - stylesheets/extra.css
+
  
