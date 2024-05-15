@@ -8,15 +8,6 @@ Documentação destinada para o projeto realizado para o DNIT (Departamento Naci
 	<div class="row">
 
 		<div class="col-sm container-img">
-       		<img src="https://github.com/pedroblome.png" alt="João Pedro" class="img-thumbnail image">
-        	<div class="middle">
-            	<a href="https://github.com/pedroblome" style="text-decoration:none">
-               		<div class="text"> João Pedro Alves Machado </div>
-				 </a>
-        	</div>
-    	</div>
-
-		<div class="col-sm container-img">
 			<img src="https://github.com/matheusclemente.png" alt="Matheus Clemente Carvalho de Azevedo" class="img-thumbnail image">
         	<div class="middle">
             	<a href="https://github.com/matheusclemente" style="text-decoration:none">
