@@ -20,7 +20,7 @@ Repositório de documentação do DNIT 1 no semestre 2024.1
 
 Clone este repositório com o comando:
 
-    git clone https://github.com/fga-eps-mds/2023.2-Dnit-DOC.git
+    git clone https://github.com/fga-eps-mds/2024.1-Dnit-DOC.git
 
 Dentro do diretório do repositório, rode o seguinte comando para buildar a documentação:
 
