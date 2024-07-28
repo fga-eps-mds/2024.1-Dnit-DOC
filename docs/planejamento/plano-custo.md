@@ -22,7 +22,7 @@ Considerando também as 17 semanas de projeto e os 8 integrantes da equipe, temo
 
 - **Custo TOTAL da equipe**: custo médio por integrante na disciplina de EPS/MDS x quantidade de integrantes da equipe **`4.902,38 x 8 = R$ 39.219,04`**
 
-- **Custo médio semanal da equipe**: custo TOTAL da equipe ÷ quantidade de semanas do projeto **`39.219,04 ÷ 17 = R$ 4.398,48`**
+- **Custo médio semanal da equipe**: custo TOTAL da equipe ÷ quantidade de semanas do projeto **`39.219,04 ÷ 17 = R$ 2.307,00`**
 
 ### 2.2. Equipamentos
 
@@ -66,9 +66,11 @@ Considerando também as 17 semanas de projeto e os 8 integrantes da equipe, temo
 
     R$ 39.219,04 + R$ 24.000,00 + R$ 3.128,00 = R$ 66 347,04
 
-&emsp;&emsp;Para o custo do MVP, contam-se as semanas a partir do início do desenvolvimento até a última release. Calculado para 8 semanas, o custo do MVP é **`(4.398,48 + 184,00) x 8 = R$ 36.659,84`**
+&emsp;&emsp;Para o custo do MVP, contam-se as semanas a partir do início do desenvolvimento até a última release. Calculado para 8 semanas, o custo do MVP é **`(2.307,00 + 184,00) x 8 = R$ 19.928,00 `**
 
 ## 4. Planilha de custos
+
+![Planilha de custos](../assets/tabela-custo.png)
 
 ## Referências
 
