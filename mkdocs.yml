@@ -7,16 +7,17 @@ theme:
   name: material
   language: pt
   features:
-           - navigation.tabs
+    - navigation.tabs
   logo: assets/logos/dnitLogoBranco.png
   favicon: assets/logos/dnitLogoBrancoFundoAzul.png
 nav:
-  - Home: 
-    - Início: index.md
-  - Desenvolvimento Pré-Sprint: 
-    - Semana 1: desenvolvimento/semana1.md
-    - Semana 2: desenvolvimento/semana2.md
+  - Home:
+      - Início: index.md
+  - Desenvolvimento Pré-Sprint:
+      - Semana 1: desenvolvimento/semana1.md
+      - Semana 2: desenvolvimento/semana2.md
+  - Planejamento:
+      - Plano de Comunicação: planejamento/plano-comunicacao.md
+      - Plano de Custos: planejamento/plano-custo.md
 extra_css:
   - stylesheets/extra.css
-
- 
