@@ -20,6 +20,11 @@ nav:
       - Plano de Comunicação: planejamento/plano-comunicacao.md
       - Plano de Custos: planejamento/plano-custo.md
   - Documentação:
+      - Metodologias: documentos-projeto/metodologias.md
       - EAP: documentos-projeto/eap.md
+      - Documento de Arquitetura: documentos-projeto/arquitetura.md
+  - Visão do Produto:
+      - Lean Inception: visao-produto/lean-inception.md
+
 extra_css:
   - stylesheets/extra.css
