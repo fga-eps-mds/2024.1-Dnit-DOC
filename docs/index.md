@@ -86,14 +86,6 @@ Documentação destinada para o projeto realizado para o DNIT (Departamento Naci
 	<br>
 	<div class="row">
 		<div class="col-sm container-img">
-       			<img src="https://github.com/gabriel-lima258.png" alt="Gabriel Lima da Silva" class="img-thumbnail image">
-        		<div class="middle">
-            			<a href="https://github.com/gabriel-lima258" style="text-decoration:none">
-                		<div class="text"> Gabriel Lima da Silva </div>
-				 </a>
-        		</div>
-    	</div>
-		<div class="col-sm container-img">
        			<img src="https://github.com/EduardoLSMeireles.png" alt="Eduardo Lopes da Silva Meireles" class="img-thumbnail image">
         		<div class="middle">
             			<a href="https://github.com/EduardoLSMeireles" style="text-decoration:none">
