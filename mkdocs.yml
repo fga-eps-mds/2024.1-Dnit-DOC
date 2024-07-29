@@ -17,12 +17,14 @@ nav:
       - Semana 1: desenvolvimento/semana1.md
       - Semana 2: desenvolvimento/semana2.md
   - Planejamento:
-      - Plano de Comunicação: planejamento/plano-comunicacao.md
-      - Plano de Custos: planejamento/plano-custo.md
+      - Plano de comunicação: planejamento/plano-comunicacao.md
+      - Plano de custos: planejamento/plano-custo.md
+      - Plano de qualidade: planejamento/plano-qualidade.md
+      - Plano de riscos: planejamento/plano-riscos.md
   - Documentação:
       - Metodologias: documentos-projeto/metodologias.md
       - EAP: documentos-projeto/eap.md
-      - Documento de Arquitetura: documentos-projeto/arquitetura.md
+      - Documento de arquitetura: documentos-projeto/arquitetura.md
   - Visão do Produto:
       - Lean Inception: visao-produto/lean-inception.md
 
