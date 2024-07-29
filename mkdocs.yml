@@ -19,5 +19,7 @@ nav:
   - Planejamento:
       - Plano de Comunicação: planejamento/plano-comunicacao.md
       - Plano de Custos: planejamento/plano-custo.md
+  - Documentação:
+      - EAP: documentos-projeto/eap.md
 extra_css:
   - stylesheets/extra.css
