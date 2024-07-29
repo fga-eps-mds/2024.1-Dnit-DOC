@@ -13,6 +13,8 @@ theme:
 nav:
   - Home:
       - Início: index.md
+      - Guia de contribuição: CONTRIBUTING.md
+      - Código de conduta: CODE_OF_CONDUCT.md
   - Desenvolvimento Pré-Sprint:
       - Semana 1: desenvolvimento/semana1.md
       - Semana 2: desenvolvimento/semana2.md
