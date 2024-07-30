@@ -7,16 +7,28 @@ theme:
   name: material
   language: pt
   features:
-           - navigation.tabs
+    - navigation.tabs
   logo: assets/logos/dnitLogoBranco.png
   favicon: assets/logos/dnitLogoBrancoFundoAzul.png
 nav:
-  - Home: 
-    - Início: index.md
-  - Desenvolvimento Pré-Sprint: 
-    - Semana 1: desenvolvimento/semana1.md
-    - Semana 2: desenvolvimento/semana2.md
+  - Home:
+      - Início: index.md
+      - Guia de contribuição: CONTRIBUTING.md
+      - Código de conduta: CODE_OF_CONDUCT.md
+  - Desenvolvimento Pré-Sprint:
+      - Semana 1: desenvolvimento/semana1.md
+      - Semana 2: desenvolvimento/semana2.md
+  - Planejamento:
+      - Plano de comunicação: planejamento/plano-comunicacao.md
+      - Plano de custos: planejamento/plano-custo.md
+      - Plano de qualidade: planejamento/plano-qualidade.md
+      - Plano de riscos: planejamento/plano-riscos.md
+  - Documentação:
+      - Metodologias: documentos-projeto/metodologias.md
+      - EAP: documentos-projeto/eap.md
+      - Documento de arquitetura: documentos-projeto/arquitetura.md
+  - Visão do Produto:
+      - Lean Inception: visao-produto/lean-inception.md
+
 extra_css:
   - stylesheets/extra.css
-
- 
