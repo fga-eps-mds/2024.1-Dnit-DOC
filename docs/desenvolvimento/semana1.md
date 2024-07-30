@@ -14,4 +14,4 @@
 
 ## Quadro de conhecimento inicial
 
-![Quadro de conhecimento](../assets/quadro-conhecimento/quadro_conhecimentos_semana1.png)
+![Quadro de conhecimento](../assets/quadro-conhecimento/quadro_conhecimentos_semana2.png)
